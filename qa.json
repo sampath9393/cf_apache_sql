@@ -1,0 +1,28 @@
+[
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "RAC_SANDBOX_KEY"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.micro"
+    },
+    {
+        "ParameterKey": "SSHLocation",
+        "ParameterValue": "0.0.0.0/0"
+    },
+    {
+        "ParameterKey": "AMIImageID",
+        "ParameterValue": "ami-087c17d1fe0178315"
+    },
+    {
+        "ParameterKey": "SubnetId",
+        "ParameterValue": ""
+    },
+    {
+        "ParameterKey": "VPCID",
+        "ParameterValue": ""
+    }
+    
+
+]
